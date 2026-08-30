@@ -17,8 +17,7 @@ double Monsoon levels, not surprising if you live here, but the scale
 of the gap surprised me.
 
 **[Vrinda Store Sales Analysis](https://github.com/KaneshThakur/Vrinda-Store-Sales-Analysis-Excel)** - Excel  
-E-commerce sales data for a D2C clothing brand. One category: "Sets"
-Brings in almost half the revenue. Everything else is a long tail behind it.
+E-commerce sales data for a D2C clothing brand. One category - "Sets" - brings in almost half the revenue. Everything else is a long tail behind it.
 
 ## Background
 MSc International Business Management - University of Salford, Manchester  
