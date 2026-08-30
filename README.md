@@ -13,7 +13,7 @@ like I expected going in.
 
 **[Delhi AQI 2025 Dashboard](https://github.com/KaneshThakur/Delhi-AQI-2025-Excel-Dashboard)** - Excel  
 134K+ hourly AQI readings across Delhi. Winter pollution is more than 
-double Monsoon levels - not surprising if you live here, but the scale 
+double Monsoon levels, not surprising if you live here, but the scale 
 of the gap surprised me.
 
 **[Vrinda Store Sales Analysis](https://github.com/KaneshThakur/Vrinda-Store-Sales-Analysis-Excel)** - Excel  
