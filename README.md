@@ -1,8 +1,9 @@
 # Kanesh Thakur
 
-Learning data analysis through Power BI and Excel by working with real 
-public datasets, trying actually to find something worth saying about 
-the data, not just make it look nice.
+Hi, I'm Kanesh. I like understanding what's actually happening in a set 
+of numbers, not just presenting them. The projects below are me practicing 
+that on real data, asking a real question each time instead of just 
+building something that looks good.
 
 ## Projects
 
